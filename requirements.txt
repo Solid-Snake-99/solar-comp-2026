@@ -1,0 +1,23 @@
+# Core Deep Learning Framework
+torch>=2.4.0
+torchvision>=0.19.0
+
+# Transformer & Segmentation Architectures
+transformers>=4.45.0
+huggingface-hub>=0.25.0
+rfdetr[plus]>=1.0.0
+segmentation-models-pytorch>=0.3.4
+supervision>=0.22.0
+
+# Computer Vision & Numerical Processing
+numpy>=1.24.0,<=2.2.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+scipy>=1.11.0
+
+# Data Management, Downloads & Evaluation
+pandas>=2.0.0
+pycocotools>=2.0.7
+tqdm>=4.66.0
+matplotlib>=3.8.0
+gdown>=5.0.0
