@@ -15,7 +15,7 @@
 > 
 > **They will be set to Public visibility immediately upon the official close of the competition submissions.**
 > 
-> **In the meantime, the evaluation committee can access, download, and verify both model checkpoints privately and securely via Google Drive without renaming them:**
+> **In the meantime, the evaluation committee can access, download, and verify both model checkpoints privately and securely via Google Drive after i confirm their identity, without renaming them:**
 >
 > 1. **Automated 1-Click Download**:
 >    ```bash
@@ -23,7 +23,7 @@
 >    ```
 >    *(This script automatically fetches both files via Google Drive into `models/` and verifies their cryptographic MD5 hashes).*
 >
-> 2. **Direct Private Google Drive Links**:
+> 2. **Direct Private Google Drive Links (LIMITED ACCESS, my approval for access is required **:
 >    * **Stage 1 Detector (`RF-DETR-SEG-LARGE-TILING-NMM.pth` - 139.4 MB)**:  
 >      👉 [Download from Google Drive](https://drive.google.com/file/d/1n2MYBKVQHJTfV5VEDwCm1IjpdPc3R4Jr/view?usp=sharing)  
 >      *(Verified MD5: `2fcde57114b2483130ccab596a61bcd7`)*
